@@ -1,3 +1,12 @@
+ /*
+	Name:         Jax Carstensen
+	Semester:     2
+	Due:          02/17/2021
+	Lab:          Lab 3 (Stack)
+	Description:  A stack is an abstract data type in which elements are added and removed from only one end; a “last in, first out” structure. 
+	This stack must be implemented as a linked structure (ie using pointers). 
+
+*/
 #ifndef ITEM_H
 #define ITEM_H
 #endif
